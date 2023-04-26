@@ -1,24 +1,24 @@
-# Análise Exploratória de Dados - Salários de Cientistas de Dados
+# Exploratory Data Analysis - Data Scientists Salaries
 
-Este notebook Python apresenta uma análise exploratória dos salários de cientistas de dados nos anos de 2020 a 2023. O objetivo é entender melhor como os salários estão distribuídos ao longo desses anos e identificar possíveis tendências ou padrões.
+This Python notebook presents an exploratory analysis of data scientist salaries for the years 2020-2023. The goal is to better understand how salaries are distributed over those years and to identify any potential trends or patterns.
 
-## Conjunto de dados
+## Data set
 
-O conjunto de dados utilizado nesta análise foi retirado do Kaggle, uma plataforma online de ciência de dados que oferece conjuntos de dados públicos e privados, além de ferramentas para análise e modelagem de dados. O conjunto de dados específico utilizado neste projeto pode ser encontrado em https://www.kaggle.com/datasets/arnabchaki/data-science-salaries-2023.
+The dataset used in this analysis was taken from Kaggle, an online data science platform that offers public and private datasets, as well as tools for data analysis and modeling. The specific dataset used in this project can be found at https://www.kaggle.com/datasets/arnabchaki/data-science-salaries-2023.
 
-## Pré-requisitos
+## Prerequisites
 
-Para executar este notebook, você precisará de:
+To run this notebook you will need:
 
 - Python 3.x
-- Pacotes do Python: pandas, numpy, matplotlib, seaborn, scipy e warnings
+- Python packages: pandas, numpy, matplotlib, seaborn, scipy and warnings
 
-## Como usar
+## How to use
 
-1. Clone este repositório em seu computador.
-2. Abra o notebook `EDA Data Science Salaries.ipynb` em um ambiente de desenvolvimento Python, como o Jupyter Notebook ou o Google Colaboratory.
-3. Execute as células do notebook em ordem, acompanhando as análises e gráficos gerados.
+1. Clone this repository on your computer.
+2. Open the `EDA Data Science Salaries.ipynb` notebook in a Python development environment such as Jupyter Notebook or Google Collaboratory.
+3. Run the notebook cells in order, following the analysis and graphs generated.
 
-## Contribuindo
+## Contributing
 
-Contribuições são bem-vindas! Se você encontrar algum bug ou tiver alguma sugestão de melhoria, por favor, abra uma issue no repositório ou envie um pull request.
+Contributions are welcome! If you find any bugs or have any suggestions for improvement, please open an issue in the repository or submit a pull request.
