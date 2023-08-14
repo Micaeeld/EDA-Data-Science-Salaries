@@ -1,3 +1,6 @@
+##### Use https://nbviewer.org to upload the file in case of errors
+---
+
 # Exploratory Data Analysis - Data Scientists Salaries
 
 This Python notebook presents an exploratory analysis of data scientist salaries for the years 2020-2023. The goal is to better understand how salaries are distributed over those years and to identify any potential trends or patterns.
